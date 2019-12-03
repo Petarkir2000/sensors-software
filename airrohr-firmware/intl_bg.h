@@ -12,7 +12,7 @@ const char INTL_LANG[] = "BG";
 #define INTL_PM_SENSOR "Сензор за прахови частици"
 const char INTL_CONFIGURATION[] PROGMEM = "Конфигурация";
 #define INTL_WIFI_SETTINGS "Настройки за WiFi"
-#define INTL_WIFI_NETWORKS "Зареждането WiFi мрежи ..."
+#define INTL_WIFI_NETWORKS "Зареждане на WiFi мрежи ..."
 #define INTL_LANGUAGE "Език"
 const char INTL_NO_NETWORKS[] PROGMEM =  "Няма намерени мрежи";
 const char INTL_NETWORKS_FOUND[] PROGMEM = "Намерени мрежи: ";
@@ -62,7 +62,7 @@ const char INTL_SEND_TO[] PROGMEM = "Изпрати до {v}";
 const char INTL_READ_FROM[] PROGMEM = "Получено от {v}";
 const char INTL_SENSOR_IS_REBOOTING[] PROGMEM = "Сензорът се рестартира.";
 const char INTL_RESTART_DEVICE[] PROGMEM = "Рестартирайте устройството";
-const char INTL_DELETE_CONFIG[] PROGMEM = "Изтриване на Конфигурацията";
+const char INTL_DELETE_CONFIG[] PROGMEM = "Изтриване на конфигурацията";
 const char INTL_RESTART_SENSOR[] PROGMEM = "Рестартиране на сензора";
 #define INTL_HOME "Начало"
 #define INTL_BACK_TO_HOME "Обратно към начало"
@@ -75,7 +75,7 @@ const char INTL_CURRENT_DATA[] PROGMEM = "Текущи данни";
 #define INTL_REALLY_RESTART_SENSOR "Наистина ли искате да рестартирате сензора?"
 #define INTL_RESTART "Рестарт"
 const char INTL_SAVE_AND_RESTART[] PROGMEM = "Запис и рестарт";
-#define INTL_FIRMWARE "Софтуер версия"
+#define INTL_FIRMWARE "Софтуерна версия"
 const char INTL_DEBUG_SETTING_TO[] PROGMEM = "Настройки дебъгването на";
 #define INTL_NONE "изключено"
 #define INTL_ERROR "само грешки"
@@ -100,11 +100,11 @@ const char INTL_LATITUDE[] PROGMEM = "Географска ширина";
 const char INTL_LONGITUDE[] PROGMEM = "Географска дължина";
 const char INTL_ALTITUDE[] PROGMEM = "Надморска височина";
 const char INTL_DATE[] PROGMEM = "Дата";
-const char INTL_TIME[] PROGMEM = "Дата";
+const char INTL_TIME[] PROGMEM = "Час";
 const char INTL_SIGNAL_STRENGTH[] PROGMEM = "Сила на сигнала";
 const char INTL_SIGNAL_QUALITY[] PROGMEM = "Качество на сигнала";
 #define INTL_NUMBER_OF_MEASUREMENTS "Брой измервания"
-#define INTL_TIME_SENDING_MS "Време, прекарано в изпращане"
+#define INTL_TIME_SENDING_MS "Време прекарано в изпращане"
 #define INTL_SENSOR "Сензор"
 #define INTL_PARAMETER "Параметър"
 #define INTL_VALUE "Стойност"
